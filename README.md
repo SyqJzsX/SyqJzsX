@@ -5,7 +5,6 @@
 - 📫 How to reach me: sqzx0524@163.com.
 - 😄 Pronouns: Terrace.
 - ⚡ Date: 2024.4.18 17:42.
--  
 
 <!---
 SyqJzsX/SyqJzsX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
